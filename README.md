@@ -1,6 +1,36 @@
-# Getting Started with Create React App
+## Welcome! 👋
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Thanks to watching this for checking out this front-end samples Web and Mobile design to code
+
+### Challange Rating Component
+
+![Design preview for Rating Component the  Rating  app component coding to web ](./Design/desktop-preview.jpg)
+
+### Web
+
+![Design preview for Active State the  Rating  app component coding to web ](./Design/desktop-design.jpg)
+
+### Mobile Design Rating Component
+
+![Design preview for Mobile Design Rating Component the  Rating  app component coding to web ](./Design/mobile-design.jpg)
+
+### Active States
+
+![Design preview for Active State the  Rating  app component coding to web ](./Design/active-states.jpg)
+
+### Thank you States
+
+![Design preview for Thank you State the  Rating  app component coding to web ](./Design/desktop-thank-you-state.jpg)
+
+### Mobile Thank you States
+
+![Design preview for Thank you State the  Rating  app component coding to web ](./Design/mobile-thank-you-state.jpg)
+
+**To do this of HTML , CSS (SASS) and JS(React).**
+
+### View online
+
+[https://yanniro2.github.io/FrontEndMentor-Challange1]
 
 ## Available Scripts
 
@@ -38,33 +68,3 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

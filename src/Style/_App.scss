@@ -1,0 +1,117 @@
+Body {
+  width: 100vw;
+  height: 100vh;
+  background-color: $Very-Dark-Blue;
+  color: $White;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.App {
+  background-color: $Dark-Blue;
+  border-radius: 2rem;
+  width: 25rem;
+  height: 25rem;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: column;
+}
+
+.icon {
+  align-self: flex-start;
+  background-color: $Very-Dark-Blue;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+h3 {
+  align-self: flex-start;
+  font-weight: 700;
+}
+p {
+  color: $Medium-Grey;
+}
+.number {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.num {
+  width: 3rem;
+  height: 3rem;
+  background-color: $Very-Dark-Blue;
+  border-radius: 50%;
+  color: $Medium-Grey;
+  border: none;
+  cursor: pointer;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  &:hover {
+    background-color: $Light-Grey;
+    color: $White;
+    transition: all 0.3s;
+  }
+  &:focus {
+    background-color: $orange;
+    color: $White;
+    transition: all ease-in-out 0.3s;
+  }
+}
+
+.Submit {
+  align-self: center;
+  width: 100%;
+  padding: 1rem;
+  background-color: $orange;
+  outline: none;
+  border: none;
+  border-radius: 2rem;
+  color: $White;
+  font-size: 1rem;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-weight: 400;
+
+  &:hover {
+    background-color: $White;
+    color: $orange;
+    transition: all 0.3s;
+  }
+}
+
+.submit-before {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: column;
+
+  p {
+    text-align: center;
+  }
+}
+
+.message {
+  background-color: $Very-Dark-Blue;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 2rem;
+
+  p {
+    color: $orange;
+  }
+}
+
+h3 {
+  font-size: 2rem;
+  align-self: center;
+  margin: 1rem;
+}
